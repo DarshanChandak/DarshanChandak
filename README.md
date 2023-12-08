@@ -3,10 +3,10 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🎓 Pursuing **BE** in **Computer Science**
-- 🏫 **4th Year** undergraduate at **BITS Pilani, Hyderabad Campus**
+- 🎓 Pursuing **B.E.** in **Computer Science**.
+- 🏫 **4th Year** undergraduate at **BITS Pilani, Hyderabad Campus**.
 - 😎 Interested in multiple domains like Data Science, Machine Learning, Android Development, Competitive Coding, and Web Development.
-- 🚀 Looking forward to contributing to some interesting Open Source Projects
+- 🚀 Looking forward to contributing to some interesting Open Source Projects.
 - 📫 How to reach me: chandak.darshan0@gmail.com
 
 <br/> 
